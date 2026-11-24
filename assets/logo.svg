@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <rect x="2" y="4" width="40" height="40" rx="11" fill="url(#g)"/>
+  <rect x="11" y="12" width="22" height="18" rx="4" fill="none" stroke="#0B1220" stroke-width="2.6"/>
+  <line x1="11" y1="21" x2="33" y2="21" stroke="#0B1220" stroke-width="2.2"/>
+  <circle cx="16" cy="26" r="1.6" fill="#0B1220"/><circle cx="28" cy="26" r="1.6" fill="#0B1220"/>
+  <path d="M14 36 L17 31 M30 36 L27 31" stroke="#0B1220" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="52" y="31" font-family="Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#E6EBF5">Metro<tspan fill="#22D3EE">Care</tspan></text>
+</svg>
